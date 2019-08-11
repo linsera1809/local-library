@@ -8,8 +8,6 @@
 
 [MVC Reference](https://developer.mozilla.org/en-US/docs/Glossary/MVC)
 
-[Where we left off](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
-
 [ORM/ODMs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)  
 
 NOTE: Use [Sequelize](https://www.npmjs.com/package/sequelize)
