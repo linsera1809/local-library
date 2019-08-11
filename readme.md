@@ -10,16 +10,20 @@
 
 [Where we left off](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
 
-[ORM/ODMs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
-    * Use [Sequelize](https://www.npmjs.com/package/sequelize)
+[ORM/ODMs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)  
 
+NOTE: Use [Sequelize](https://www.npmjs.com/package/sequelize)
 
-## Helpful Code in Starting:  
-    * Express Scaffolding  
+[Where we left off](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
+
+## Helpful Start:  
+### Express Scaffolding:  
     `npm install express-generator -g`  
-    For EJS Template Engine:  
-        `express helloworld --view=ejs -c --git`
-    For Pug Template Engine:  
-        `express helloworld --view=pug -c --git`
 
+### For EJS Template Engine:      
+    `express helloworld --view=ejs -c --git`        
+
+### For Pug Template Engine:  
+    `express helloworld --view=pug -c --git`  
+  
      
